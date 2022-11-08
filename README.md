@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a job in Quality Assurance/Software testing or even software engineering
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alexandrugeorge1989/)
 
 <!---
