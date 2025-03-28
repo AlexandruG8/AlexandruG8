@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in coding
+- 👀 I’m interested in software quality assurance
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking for a job in Quality Assurance/Software testing or even software engineering (Junior)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alexandrugeorge1989/)
